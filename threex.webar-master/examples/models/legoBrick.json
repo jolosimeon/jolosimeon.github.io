@@ -1,0 +1,35 @@
+{
+    "metadata":{
+        "normals":6,
+        "vertices":8,
+        "type":"Geometry",
+        "generator":"io_three",
+        "version":3,
+        "uvs":0,
+        "materials":1,
+        "faces":6
+    },
+    "normals":[-1,0,0,0,-1,-0,1,0,0,0,1,-0,0,0,1,0,-0,-1],
+    "uvs":[],
+    "name":"Cube.001Geometry.2",
+    "materials":[{
+        "specularCoef":50,
+        "transparent":false,
+        "doubleSided":true,
+        "visible":true,
+        "wireframe":false,
+        "blending":"NormalBlending",
+        "DbgName":"Material.001",
+        "DbgColor":15658734,
+        "opacity":1,
+        "DbgIndex":0,
+        "colorSpecular":[0.421875,0.421875,0.421875],
+        "depthTest":true,
+        "colorDiffuse":[0,0.153556,0.8],
+        "depthWrite":true,
+        "shading":"phong",
+        "colorEmissive":[0,0,0]
+    }],
+    "vertices":[-0.317591,0.027365,0.644444,-0.317591,0.027365,-0.593088,0.230517,0.027365,-0.593088,0.230517,0.027365,0.644444,-0.317591,0.346978,0.644444,-0.317591,0.346978,-0.593088,0.230517,0.346978,-0.593088,0.230517,0.346978,0.644444],
+    "faces":[35,1,0,4,5,0,0,0,0,0,35,5,6,2,1,0,1,1,1,1,35,6,7,3,2,0,2,2,2,2,35,0,3,7,4,0,3,3,3,3,35,0,1,2,3,0,4,4,4,4,35,7,6,5,4,0,5,5,5,5]
+}
